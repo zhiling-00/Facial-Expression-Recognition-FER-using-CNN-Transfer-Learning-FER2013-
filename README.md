@@ -8,6 +8,7 @@ This project performs facial expression recognition using the FER2013 dataset wi
 The project uses the FER2013 dataset organized as follows:
 
 fer2013/
+
 ├── train/
 │ ├── angry/
 │ ├── disgust/
@@ -16,6 +17,7 @@ fer2013/
 │ ├── neutral/
 │ ├── sad/
 │ ├── surprise/
+
 ├── test/
 │ ├── angry/
 │ ├── disgust/
