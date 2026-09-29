@@ -60,7 +60,6 @@ This project includes both a custom CNN and transfer learning models. Each model
 | VGG16         | Transfer Learning | 48x48x3     | VGG16 (frozen + partial fine-tune) + GAP + Dense |
 | MobileNetV2   | Transfer Learning | 48x48x3     | MobileNetV2 + GAP + Dense (256→128→7)            |
 | ResNet50      | Transfer Learning | 48x48x3     | ResNet50 + GAP + Dense (256→7)                   |
-+----------------------------------------------------------------------------------------------------+
 
 ---
 
